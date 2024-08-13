@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "ac_animal_grounds:item/raw_gaitenite"
+  }
+}
