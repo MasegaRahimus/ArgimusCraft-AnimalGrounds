@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "ac_animal_grounds:block/raw_gaitenite_block"
+  }
+}

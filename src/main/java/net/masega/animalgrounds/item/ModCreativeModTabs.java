@@ -1,6 +1,7 @@
 package net.masega.animalgrounds.item;
 
 import net.masega.animalgrounds.AnimalGrounds;
+import net.masega.animalgrounds.block.ModBlocks;
 import net.minecraft.core.registries.Registries;
 import net.minecraft.network.chat.Component;
 import net.minecraft.world.item.CreativeModeTab;
@@ -20,6 +21,9 @@ public class ModCreativeModTabs {
                     .displayItems((pParameters, pOutput) -> {
                         pOutput.accept(ModItems.GAITENITE.get());
                         pOutput.accept(ModItems.RAW_GAITENITE.get());
+
+                        pOutput.accept(ModBlocks.GAITENITE_BLOCK.get());
+                        pOutput.accept(ModBlocks.RAW_GAITENITE_BLOCK.get());
                     })
                     .build());
 
