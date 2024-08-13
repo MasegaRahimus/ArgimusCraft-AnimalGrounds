@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "ac_animal_grounds:gaitenite"
+    }
+  },
+  "result": {
+    "item": "ac_animal_grounds:gaitenite_block"
+  }
+}

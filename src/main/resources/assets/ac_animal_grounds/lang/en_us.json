@@ -2,7 +2,14 @@
   "item.ac_animal_grounds.gaitenite": "Gaitenite",
   "item.ac_animal_grounds.raw_gaitenite": "Raw Gaitenite",
 
-  "block,ac_animal_grounds.gaitenite_block": "Block of Gaitenite",
+  "block.ac_animal_grounds.gaitenite_block": "Block of Gaitenite",
+  "block.ac_animal_grounds.raw_gaitenite_block": "Block of Raw Gaitenite",
+
+  "block.ac_animal_grounds.gaitenite_ore": "Gaitenite Ore",
+  "block.ac_animal_grounds.deepslate_gaitenite_ore": "Deepslate Gaitenite Ore",
+  "block.ac_animal_grounds.nether_gaitenite_ore": "Nether Gaitenite Ore",
+  "block.ac_animal_grounds.end_stone_gaitenite_ore": " Endstone Gaitenite Ore",
+
 
   "creativetab.animal_grounds_tab": "Animal Grounds Tab"
 }

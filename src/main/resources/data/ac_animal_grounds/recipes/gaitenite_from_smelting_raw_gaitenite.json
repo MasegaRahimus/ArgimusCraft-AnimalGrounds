@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 0.7,
+  "group": "gaitenite",
+  "ingredient": {
+    "item": "ac_animal_grounds:raw_gaitenite"
+  },
+  "result": "ac_animal_grounds:gaitenite"
+}

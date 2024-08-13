@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "ac_animal_grounds:gaitenite_block"
+    }
+  ],
+  "result": {
+    "item": "ac_animal_grounds:gaitenite",
+    "count": 9
+  }
+}

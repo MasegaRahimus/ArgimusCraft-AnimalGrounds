@@ -24,6 +24,11 @@ public class ModCreativeModTabs {
 
                         pOutput.accept(ModBlocks.GAITENITE_BLOCK.get());
                         pOutput.accept(ModBlocks.RAW_GAITENITE_BLOCK.get());
+
+                        pOutput.accept(ModBlocks.GAITENITE_ORE.get());
+                        pOutput.accept(ModBlocks.DEEPSLATE_GAITENITE_ORE.get());
+                        pOutput.accept(ModBlocks.NETHER_GAITENITE_ORE.get());
+                        pOutput.accept(ModBlocks.END_STONE_GAITENITE_ORE.get());
                     })
                     .build());
 
